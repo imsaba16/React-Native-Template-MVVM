@@ -1,0 +1,3 @@
+enum AppConstants {
+    SAMPLE = "SAMPLE"
+}
