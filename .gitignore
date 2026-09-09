@@ -40,4 +40,4 @@ app-example
 .idea/
 
 package-lock.json
-yarn.lock
+*.lock
